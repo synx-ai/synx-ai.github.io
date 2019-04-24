@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="353px" viewBox="0 0 1440 353" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0.953548459%" y1="62.0872405%" x2="94.7393668%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#AD66FF" offset="0%"></stop>
+            <stop stop-color="#5EC3FF" offset="18.2171243%"></stop>
+            <stop stop-color="#7AFDFF" offset="35.6936416%"></stop>
+            <stop stop-color="#F0FFC9" offset="63.3467305%"></stop>
+            <stop stop-color="#FFB5AD" offset="85.3843027%"></stop>
+            <stop stop-color="#FF73B6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ABOUT" transform="translate(0.000000, -2190.000000)" fill-rule="nonzero" stroke="url(#linearGradient-1)" stroke-width="13">
+            <g id="team-and-board" transform="translate(-60.000000, 1429.000000)">
+                <path d="M1,1049.82155 C378.474961,1273.67981 622.631289,768 802.928722,768 C977.085827,768 844.005311,1023.83801 1500,957.558135" id="Path-7"></path>
+            </g>
+        </g>
+    </g>
+</svg>
