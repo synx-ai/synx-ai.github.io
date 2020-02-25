@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="12px" viewBox="0 0 10 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-686.000000, -3333.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="1" transform="translate(100.000000, 3119.000000)">
+                <g id="2-copy-2" transform="translate(540.000000, 160.000000)">
+                    <g id="arrow" transform="translate(46.000000, 54.000000)">
+                        <path d="M4,10 L4,4 L6,4 L6,10 L8,10 L5,14 L2,10 L4,10 Z" id="Combined-Shape-Copy" transform="translate(5.000000, 9.000000) rotate(-90.000000) translate(-5.000000, -9.000000) "></path>
+                        <polygon id="Rectangle-Copy-2" points="0 -8.97060204e-14 2 -8.97060204e-14 2 10 0 10"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
