@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="310px" height="230px" version="1.1" viewBox="0 0 310 230" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>logo 6 (highlight)</title>
+ <desc>Created with Sketch.</desc>
+ <g id="hover" fill="#333">
+  <rect width="310" height="230" fill="#111415"/>
+ </g>
+ <path d="m64.943 72v89.359h25.381v-35.131h29.676v35.131h25.381v-89.359h-25.381v33h-29.676v-33zm121.16 0v89.359h25.381v-33.359h30.301v-20h-30.301v-14.771h37.143v-21.229h-37.143z" fill="#b9bbbb" opacity=".62" style="paint-order:markers stroke fill"/>
+ <path d="m120 161.36 66.1-89.36h25.381l-66.1 89.36z" fill="#b8b8b8"/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:title>logo 6 (highlight)</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+</svg>

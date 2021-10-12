@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://synx.ai
+
+# Sitemaps
+Sitemap: https://synx.ai/sitemap.xml
