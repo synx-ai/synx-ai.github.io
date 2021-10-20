@@ -1,13 +1,19 @@
 {
-  "name": "with-tailwindcss",
+  "homepage": "https://synx.ai",
+  "name": "synx-ai",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
     "postbuild": "next-sitemap",
+    "replaceFilePaths": "node replacer.js",
+    "dev": "next dev",
+    "build": "next build && next export -o build && npm run replaceFilePaths",
     "start": "next start",
-    "lint": "next lint"
+    "export": "next export -o build && npm run replaceFilePaths",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "lint": "next lint",
+    "prepare": "husky install"
   },
   "dependencies": {
     "next": "^11.1.2",
@@ -20,8 +26,11 @@
     "autoprefixer": "^10.2.6",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2",
+    "gh-pages": "^3.2.3",
+    "husky": "^7.0.0",
     "next-sitemap": "^1.6.173",
     "postcss": "^8.3.5",
+    "replace-in-file": "^6.3.1",
     "tailwindcss": "^2.2.4",
     "typescript": "^4.3.5"
   }
