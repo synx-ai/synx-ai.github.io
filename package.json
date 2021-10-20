@@ -13,7 +13,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "lint": "next lint",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "postinstall": "npm shrinkwrap"
   },
   "dependencies": {
     "next": "^11.1.2",
