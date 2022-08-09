@@ -38,39 +38,12 @@ export default function Header() {
                                         </a>
                                         </Link>
                                     </div>
-
-                                    <div className="p-3 hover:bg-gray-50 rounded-md transition-colors">
-                                        <Link href="/synx/deeplab">
-                                            <a className="">
-                                            <p className="text-gray-900">DeepLab</p>
-                                            <p className="text-gray-400 text-sm font-normal">
-                                                Automated Deep Learning for High-Dimensional Data.
-                                            </p>
-                                        </a>
-                                        </Link>
-                                    </div>
-
-                                    <div className="p-3 hover:bg-gray-50 rounded-md transition-colors">
-                                        <Link href="/synx/galois">
-                                            <a className="">
-                                            <p className="text-gray-900">Staffing</p>
-                                            <p className="text-gray-400 text-sm font-normal">
-                                                Consultancy &amp; Managed services for companies.
-                                            </p>
-                                        </a>
-                                        </Link>
-                                    </div>
                                 </div>
                             </div>
                         </div>  
                         <Link href="/company/about">
                             <a className="py-2 px-6 flex hover:text-white transition-colors">
                                 About
-                            </a>
-                        </Link>
-                        <Link href="/company/contact">
-                            <a href="#" className="py-2 px-6 flex hover:text-white transition-colors">
-                                Contact
                             </a>
                         </Link>
                     </nav>

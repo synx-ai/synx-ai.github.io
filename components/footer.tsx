@@ -83,16 +83,9 @@ export default function Footer() {
                                 </li>
                                 <li className="pb-1">
                                     <p className="text-sm text-gray-100 hover:text-white">
-                                        <Link href="/synx/deeplab">
-                                            <a>DeepLab</a>
-                                        </Link>
-                                    </p>
-                                </li>
-                                <li className="pb-1">
-                                    <p className="text-sm text-gray-100 hover:text-white">
-                                        <Link href="/synx/open-source">
+                                        <a href="https://github.com/synx-ai" target="_blank" rel="noreferrer">
                                             <a>Open Source</a>
-                                        </Link>
+                                        </a>
                                     </p>
                                 </li>
                             </ul>
@@ -107,20 +100,6 @@ export default function Footer() {
                                     <p className="text-sm text-gray-100 hover:text-white">
                                         <Link href="/company/about">
                                             <a>About</a>
-                                        </Link>
-                                    </p>
-                                </li>
-                                <li className="pb-1">
-                                    <p className="text-sm text-gray-100 hover:text-white">
-                                        <Link href="/company/carrers">
-                                            <a>Carrers</a>
-                                        </Link>
-                                    </p>
-                                </li>
-                                <li className="pb-1">
-                                    <p className="text-sm text-gray-100 hover:text-white">
-                                        <Link href="/company/contact">
-                                            <a>Contact</a>
                                         </Link>
                                     </p>
                                 </li>
@@ -143,34 +122,22 @@ export default function Footer() {
                     </div>
                     <div className="w-1/6 flex flex-col relative z-20">
                         <p className="text-gray-300 text-xs">
+                            
+                        </p>
+                    </div>
+                    <div className="w-1/6 flex flex-col relative z-20">
+                        <p className="text-gray-300 text-xs">
+                            
+                        </p>
+                    </div>
+                    <div className="w-1/6 flex flex-col relative z-20">
+                        <p className="text-gray-300 text-xs">
+                            
+                        </p>
+                    </div>
+                    <div className="w-1/6 flex flex-col relative z-20">
+                        <p className="text-gray-300 text-xs">
                             <Link href="/sitemap.xml">
-                                <a className="hover:text-gray-100">
-                                Privacy Policy
-                                </a>
-                            </Link>
-                        </p>
-                    </div>
-                    <div className="w-1/6 flex flex-col relative z-20">
-                        <p className="text-gray-300 text-xs">
-                            <Link href="#">
-                                <a className="hover:text-gray-100">
-                                Terms &amp; Conditions
-                                </a>
-                            </Link>
-                        </p>
-                    </div>
-                    <div className="w-1/6 flex flex-col relative z-20">
-                        <p className="text-gray-300 text-xs">
-                            <Link href="#">
-                                <a className="hover:text-gray-100">
-                                Security &amp; Compliance
-                                </a>
-                            </Link>
-                        </p>
-                    </div>
-                    <div className="w-1/6 flex flex-col relative z-20">
-                        <p className="text-gray-300 text-xs">
-                            <Link href="#">
                                 <a className="hover:text-gray-100">
                                 Sitemap
                             </a>

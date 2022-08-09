@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <main className="dark bg-gray-700 relative h-screen">
       <Head>
-        <title>Synx - About</title>
+        <title>Synx</title>
       </Head>
       <Header />
 
