@@ -1,7 +1,7 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import Header from '../../components/header'
-import Footer from '../../components/footer'
+import Head from "next/head";
+import Image from "next/image";
+import Header from "../../components/header";
+import Footer from "../../components/footer";
 
 export default function Home() {
   return (
@@ -18,10 +18,10 @@ export default function Home() {
               <h1 className="text-5xl sm:text-7xl font-black flex flex-col sm:leading-snug leading-snug text-white">
                 DeepLab
               </h1>
-              <span className="w-28 h-1.5 rounded-full bg-white mt-8">
-              </span>
+              <span className="w-28 h-1.5 rounded-full bg-white mt-8"></span>
               <p className="pt-10 text-sm sm:text-2xl text-white">
-                Automate your Neural Networks training for Deep Learning. Pre-process High Dimensional data with autoenconders.
+                Automate your Neural Networks training for Deep Learning.
+                Pre-process High Dimensional data with autoenconders.
               </p>
             </div>
           </div>
@@ -30,5 +30,5 @@ export default function Home() {
 
       <Footer />
     </main>
-  )
+  );
 }

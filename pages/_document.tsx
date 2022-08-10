@@ -9,9 +9,17 @@ export default class MyDocument extends Document {
         <Head>
           <meta charSet="utf-8" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          <link rel="shortcut icon" href={`${URL}favicon.svg`} type="image/svg+xml" />
-          <link rel="alternate icon" href={`${URL}favicon.png`} type="image/png" />
-          
+          <link
+            rel="shortcut icon"
+            href={`${URL}favicon.svg`}
+            type="image/svg+xml"
+          />
+          <link
+            rel="alternate icon"
+            href={`${URL}favicon.png`}
+            type="image/png"
+          />
+
           <meta property="og:title" content="Synx" />
 
           <meta
@@ -26,7 +34,10 @@ export default class MyDocument extends Document {
           <link rel="canonical" href="https://synx.ai/" />
           <meta property="og:url" content="https://synx.ai/" />
 
-          <meta property="og:image" content="https://synx.ai/assets/opengraph.jpg" />
+          <meta
+            property="og:image"
+            content="https://synx.ai/assets/opengraph.jpg"
+          />
           <meta property="og:image:width" content="1200" />
           <meta property="og:image:height" content="630" />
 

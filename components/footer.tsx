@@ -14,7 +14,7 @@ export default function Footer() {
 
                     <div className="w-full md:w-1/5 flex flex-col relative z-20 pt-6 md:pt-0">
                         <div className="text-white font-light text-xs ">
-                            <p className="font-black text-base text-gray-200 mb-2">Main Industries</p>
+                            <p className="font-black text-base text-gray-200 mb-3">Main Industries</p>
                             <ul>
                                 <li className="pb-1">
                                     <p className="text-sm text-gray-100 hover:text-white">
@@ -43,7 +43,7 @@ export default function Footer() {
 
                     <div className="w-full md:w-1/5 flex flex-col relative z-20 pt-6 md:pt-0">
                         <div className="text-white font-light text-xs ">
-                            <p className="font-black text-base text-gray-200 mb-2">Services</p>
+                            <p className="font-black text-base text-gray-200 mb-3">Services</p>
                             <ul>
                                 <li className="pb-1">
                                     <p className="text-sm text-gray-100 hover:text-white">
@@ -72,7 +72,7 @@ export default function Footer() {
 
                     <div className="w-full md:w-1/5 flex flex-col relative z-20 pt-6 md:pt-0">
                         <div className="text-white font-light text-xs ">
-                            <p className="font-black text-base text-gray-200 mb-2">Products</p>
+                            <p className="font-black text-base text-gray-200 mb-3">Products</p>
                             <ul>
                                 <li className="pb-1">
                                     <p className="text-sm text-gray-100 hover:text-white">
@@ -94,7 +94,7 @@ export default function Footer() {
 
                     <div className="w-full md:w-1/5 flex flex-col relative z-20 pt-6 md:pt-0">
                         <div className="text-white font-light text-xs ">
-                            <p className="font-black text-base text-gray-200 mb-2">Company</p>
+                            <p className="font-black text-base text-gray-200 mb-3">Company</p>
                             <ul>
                                 <li className="pb-1">
                                     <p className="text-sm text-gray-100 hover:text-white">
@@ -118,7 +118,7 @@ export default function Footer() {
 
                 <div className="container mx-auto px-6 flex relative py-5">
                     <div className="w-2/6 flex flex-col relative z-20">
-                        <p className="text-gray-300 text-xs">Synx {new Date().getFullYear()}, All rights reserved.</p>
+                        <p className="text-gray-400 text-xs">Synx {new Date().getFullYear()}, All rights reserved.</p>
                     </div>
                     <div className="w-1/6 flex flex-col relative z-20">
                         <p className="text-gray-300 text-xs">
@@ -136,12 +136,12 @@ export default function Footer() {
                         </p>
                     </div>
                     <div className="w-1/6 flex flex-col relative z-20">
-                        <p className="text-gray-300 text-xs">
+                        <p className="text-gray-400 text-xs">
                             <Link href="/sitemap.xml">
-                                <a className="hover:text-gray-100">
-                                Sitemap
-                            </a>
-                        </Link>
+                                <a className="hover:text-gray-300">
+                                    Sitemap
+                                </a>
+                            </Link>
                         </p>
                     </div>
                 </div>
